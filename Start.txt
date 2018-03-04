@@ -1,0 +1,12 @@
+Raspberry pi - 
+1. cmd
+2. type arp -a
+3. find dynamic ip address (192.168.137.XXX)
+4. Open Putty
+5. Type address
+6. Login as - pi
+7. Password - abhilash
+8. type vncserver :1 in putty
+9. open tightvncviewer
+10. type address
+11. password - raspberry

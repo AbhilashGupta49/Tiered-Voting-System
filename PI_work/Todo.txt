@@ -1,0 +1,4 @@
+3.Add Screen and Display Number
+5.Prettify
+7.Add Button for Reset and Insert
+8. Add password to vote value(send password with reply for pin)

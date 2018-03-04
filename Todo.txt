@@ -1,0 +1,10 @@
+1. Configure Arduino wifi module(Buy Serial Adapter)
+2. LCD resolder probably in 1st Arduino and Raspi
+3. Lights Not Working in 2nd Arduino
+4. Add code for displaying results
+5. Correct Facial Recognition Raspi
+6. Add encryption and decryption
+7. Tally no. of votes from voted flag and then add final count
+8. Connect Arduinos and Raspi
+9. Add a button for confirmation of vote.
+10. Add time limit till when a person can vote after entering pin in arduino.

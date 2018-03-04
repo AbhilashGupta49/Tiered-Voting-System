@@ -1,0 +1,5 @@
+1. Encryption, Decryption
+2. Confirmation vote button
+3. Connection between Arduino and Server
+4. Display Vote Results - Done
+5. Make Flask Server visible to external network
